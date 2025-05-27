@@ -1,0 +1,4 @@
+- Random quote generator
+- Modern glassmorphism design
+- Responsive layout
+- No repeated quotes
